@@ -1,5 +1,5 @@
-0.0.0.0#محمدامین مریدی 09387999133
-0.0.0.0#حجم باقیمانده:1318GB
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogItit2KzZhSDYqNin2YLbjNmF2KfZhtiv2Yc6MTI4Ndqv24zar9in2KjYp9uM2KoiLA0KICAiYWRkIjogIjAuMC4wLjAiLA0KICAicG9ydCI6ICIwIiwNCiAgImlkIjogImE3OTJkYTk0LTFmMzYtNDAzNC1iNzU3LWM1MjE0ZGE0N2RjOCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogItmF2K3Zhdiv2KfZhduM2YYg2YXYsduM2K/bjCAtIDA5Mzg3OTk5MTMzIiwNCiAgImFkZCI6ICIwLjAuMC4wIiwNCiAgInBvcnQiOiAiMCIsDQogICJpZCI6ICJhNzkyZGE5NC0xZjM2LTQwMzQtYjc1Ny1jNTIxNGRhNDdkYzgiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
 vless://8aa98a4e-4110-402b-ab57-86730ef0de88@Www.speedtest.net:8080?type=ws&security=none&host=MdmV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.wenetx.top.&path=/MdmV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g#%F0%9F%87%AB%F0%9F%87%AEVPS.AmiN-Moridi
 vless://ad3b8212-2f55-442d-9a27-21a44dcab5bc@www.zula.ir:443?type=ws&security=tls&host=birjand.aminmoridi-forex.workers.dev&path=/?ed%3D2048&sni=birjand.aminmoridi-forex.workers.dev&alpn=h2,http/1.1#%F0%9F%87%B8%F0%9F%87%ACMTN.AmiN-Moridi_S1
 vless://ad3b8212-2f55-442d-9a27-21a44dcab5bc@www.visa.com:443?type=ws&security=tls&host=birjand.aminmoridi-forex.workers.dev&path=/?ed%3D2048&sni=birjand.aminmoridi-forex.workers.dev&alpn=h2,http/1.1#%F0%9F%87%B3%F0%9F%87%B1MTN.AmiN-Moridi_S2
@@ -27,8 +27,3 @@ vless://7c7af2de-bb97-429f-ac3c-8ef849717491@80.253.255.10:443?encryption=none&f
 vless://200e059b-51ec-4825-8e95-5e49db5d22ad@141.95.75.212:443?encryption=none&security=none&sni=analytics.google.com&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7REAL.AmiN-Moridi_S10
 vless://44c887ad-709d-4fce-b156-0e2cbbb1e542@185.110.190.131:45638?encryption=none&security=none&sni=dash.cloudflare.com&type=grpc&serviceName=%40cconfig_v2ray%40cconfig_v2ray%40cconfig_v2ray%40cconfig_v2ray%40cconfig_v2ray%40cconfig_v2ray%40cconfig_v2ray%40cconfig_v2ray&mode=gun#%F0%9F%87%A9%F0%9F%87%AAREAL.AmiN-Moridi_S11
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.46.224:443?encryption=none&security=tls&sni=t-netplus-4vx.pages.dev&type=ws&host=t-netplus-4vx.pages.dev&path=%2F#%F0%9F%87%A9%F0%9F%87%AAREAL.AmiN-Moridi_S12
-hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@46.30.45.211:4380/?sni=vmln53bkj6.bayworld.net&obfs=salamander&obfs-password=irvless#AmiN-Moridi_h2
-hy2://XvXbk2s6zvHzavka@137.175.79.36:8620/?insecure=1&sni=https%3A%2F%2Fbing.com%2F#AmiN-Moridi_h2
-hy2://a0cd8b88-9f7a-48b4-a40b-d67dc53d3a03@141.11.74.11:443/?insecure=1&sni=us-hy2.xlb8.eu.org#AmiN-Moridi_h2
-hy2://a0cd8b88-9f7a-48b4-a40b-d67dc53d3a03@[2605:8340:0:b:a2e9:e4e1:3f0a:1]:443/?insecure=1&sni=us-hy2.xlb8.eu.org#AmiN-Moridi_h2
-hy2://a0cd8b88-9f7a-48b4-a40b-d67dc53d3a03@141.11.74.11:443/?insecure=1&sni=us-hy2.xlb8.eu.org#AmiN-Moridi_h2
