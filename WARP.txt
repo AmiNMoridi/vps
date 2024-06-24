@@ -1,4 +1,4 @@
-warp://162.159.192.17:3854/?ifp=5-10#AmiN.Moridi_S1(Shatel)
+warp://162.159.192.17:3854/?ifp=5-10#AmiN.Moridi_S1
 warp://162.159.192.156:934/?ifp=5-10#AmiN.Moridi_S2
 warp://162.159.192.129:3854/?ifp=5-10#AmiN.Moridi_S3
 warp://162.159.192.106:934/?ifp=5-10#AmiN.Moridi_S4  
