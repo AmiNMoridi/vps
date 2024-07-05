@@ -6,6 +6,3 @@ warp://162.159.192.0:3854/?ifp=5-10#AmiN.Moridi_S5
 warp://162.159.195.171:8854/?ifp=5-10#AmiN.Moridi_Irancell💛
 warp://162.159.192.110:943?ifp=10-20&ifps=20-60&ifpd=5-10#AmiN.Moridi_MCI-1💙
 warp://188.114.97.61:5956?ifp=10-20&ifps=20-60&ifpd=5-10#AmiN.Moridi_MCI-2💙
-warp://188.114.96.112:1014/?ifp=5-10#AmiN.Moridi_VIP👑N1
-warp://188.114.99.112:4500/?ifp=5-10#AmiN.Moridi_VIP👑N2
-warp://188.114.96.220:3581/?ifp=5-10#AmiN.Moridi_VIP👑N3
