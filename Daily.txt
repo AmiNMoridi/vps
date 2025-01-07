@@ -3,3 +3,4 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1RENDQSBcdTA2MkRcdTA2MkNcdTA2
 vless://cd0a3ac6-63da-4666-8df4-aacb32e2a431@irdl.hpcdn.info:443?encryption=none&security=tls&sni=irdl.hpcdn.info&fp=random&allowInsecure=1&type=ws&host=irdl.hpcdn.info&path=%2F24843%2Ffly#AMIN-WS
 vless://b8a9ffc5-4ae2-4d6e-ba7c-058e206b7ddb@irdl.hpcdn.info:3306?encryption=none&security=tls&sni=irdl.hpcdn.info&alpn=h2&fp=chrome&type=xhttp&host=irdl.hpcdn.info&path=%2F%3Fed%3D2560&mode=packet-up#AMIN-xPAUP
 vless://b0c74d4b-7dc4-4541-8957-0b52d2fcddfb@irdl.hpcdn.info:2053?encryption=none&security=tls&sni=irdl.hpcdn.info&alpn=h2&fp=chrome&type=xhttp&host=irdl.hpcdn.info&path=%2F%3Fed%3D2560&mode=auto#AMIN-xAuto
+vless://Parsashonam-145@[2a01:4f8:1c1b:26eb::1]:8888?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AAAMIN-Irancell%20%28ipv6%29
