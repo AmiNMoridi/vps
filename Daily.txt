@@ -2,3 +2,4 @@ vless://3253f76f-d0ef-4706-9a26-767fe8564e8f@190.93.247.56:2052?encryption=none&
 vless://25417ace-994d-4d87-aea1-a69b762f9540@190.93.247.56:2082?encryption=none&security=none&type=httpupgrade&host=usfn.zulahost.us&path=%2Fh%3Fed%3D2560#%F0%9F%87%AB%F0%9F%87%AE183MMad-H
 vless://e7552cf1-c21c-4895-9507-19602b95633d@usde3.zulahost.us:2052?encryption=none&security=none&type=ws&host=usde3.zulahost.us&path=%2Fh%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA182MMad-WS1
 vless://e7552cf1-c21c-4895-9507-19602b95633d@190.93.247.56:2052?encryption=none&security=none&type=ws&host=usde3.zulahost.us&path=%2Fh%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA182MMad-WS2
+vless://0f908c9a-92a1-4402-bf9e-e033b20d9cc5@190.93.247.56:2082?type=httpupgrade&host=rsde2.hpcdn.info&path=/h?ed%3D2560&security=none#%F0%9F%87%A9%F0%9F%87%AA180MMad-H
