@@ -1,3 +1,2 @@
-vless://7e43252c-7525-462a-bf45-2a0be4f3a61c@190.93.247.56:2052?encryption=none&security=none&type=ws&host=de.lemoex.blog&path=%2Fh%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA184MMad-WS
-vless://b44ba9ca-b3c9-4b5a-83fd-a2def7fe37af@190.93.247.56:2052?encryption=none&security=none&type=ws&host=fn.lemoex.blog&path=%2Fh%3Fed%3D2560#%F0%9F%87%AB%F0%9F%87%AE184MMad-WS
-vless://19c3e07d-514e-43a0-93a6-b9e541098735@190.93.247.56:2082?encryption=none&security=none&type=httpupgrade&host=de.lemoex.blog&path=%2Fh%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA184MMad-H
+vless://f0fe6d46-ac47-497f-990e-f713ac6f0bbd@190.93.247.56:8080?encryption=none&security=none&type=ws&host=rsde.hpcdn.info&path=%2Fh%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA185MMad-WS
+vless://81e819e2-e671-4b45-8a4c-cd16e2ef6df7@190.93.247.56:2052?encryption=none&security=none&type=httpupgrade&host=rsde.hpcdn.info&path=%2Fh%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA185MMad-H
