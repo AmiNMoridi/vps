@@ -1,4 +1,2 @@
-vless://f9bdf98c-db87-45b0-9196-3078a29f47c5@190.93.247.56:8080?encryption=none&security=none&type=ws&host=usfn.hpcdn.info&path=%2Fws%3Fed%3D2560#%F0%9F%87%AB%F0%9F%87%AE186MMad-WS
-vless://ab251c2e-6718-4fc1-9602-306c3865853e@190.93.247.56:8080?encryption=none&security=none&type=ws&host=rsde.hpcdn.info&path=%2Fh%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA186MMad-WS
-vless://43e5aeff-d9cd-47e8-abfb-5c828646daca@190.93.247.56:2052?encryption=none&security=none&type=httpupgrade&host=usfn.hpcdn.info&path=%2Fh%3F%3Ded2560#%F0%9F%87%AB%F0%9F%87%AE186MMad-H
-vless://f460642d-dfb0-499a-9219-fe987798abf5@190.93.247.56:2052?encryption=none&security=none&type=httpupgrade&host=rsde.hpcdn.info&path=%2Fh%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA185MMad-H
+vless://0f239063-3b90-4002-9be6-68ff142fa2d4@190.93.247.56:2052?encryption=none&security=none&type=ws&host=rsde.hpcdn.info&path=%2Fws%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA187MMad-WS
+vless://fae3fe12-b12c-4d49-9959-9ab235845daf@190.93.247.56:2052?encryption=none&security=none&type=ws&host=usfn.hpcdn.info&path=%2Fws%2F%3Fed%3D2560#%F0%9F%87%AB%F0%9F%87%AE187MMad-WS
