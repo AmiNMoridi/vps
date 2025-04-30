@@ -1,5 +1,5 @@
 vless://fdc5eae9-0f57-4cd4-a20d-0be7dddada5c@lillet.com:80?type=xhttp&mode=auto&host=speedcloud.com&path=/dl?ed%3D2560#%F0%9F%94%B5%E2%9C%88%EF%B8%8F%F0%9F%92%94%F0%9F%87%AB%F0%9F%87%AE%F0%9F%86%95
 vless://5f51fadb-3b9c-4988-975a-3239be788da9@199.232.123.189:80?type=ws&host=umetous.com&path=/?ed%3D2056#%F0%9F%9F%A1AmiN%F0%9F%87%AB%F0%9F%87%AE
-vless://dcd617cc-55cc-4a0f-ba63-28921ca7e6ce@185.146.173.39:8080?encryption=none&security=none&type=ws&host=fide1.hpcdn.info&path=%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA198MMad-WS
-vless://9a54eef2-54f5-4cab-bba4-3d0f4dd92d41@185.146.173.39:8080?encryption=none&security=none&type=ws&host=fifn1.hpcdn.info&path=%2F%3Fed%3D2560#%F0%9F%87%AB%F0%9F%87%AE198MMad-WS
-vless://60a2d9d7-7f0f-4aec-95bd-27a753c2234e@185.146.173.39:2052?encryption=none&security=none&type=httpupgrade&host=fide1.hpcdn.info&path=%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA198MMad-H
+vless://c881662c-5c4d-4cda-888d-6a7a97053443@185.146.173.39:8080?encryption=none&security=none&type=ws&host=ptde1.hpcdn.info&path=%2F%40mmad%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA199MMad-WS
+vless://e1104ea8-3da3-4738-bc6a-1b4ddb23fd21@185.146.173.39:8080?encryption=none&security=none&type=ws&host=ptfn1.hpcdn.info&path=%2F%40mmad%3Fed%3D2560#%F0%9F%87%AB%F0%9F%87%AE199MMad-WS
+vless://ed2b9070-de15-4d8f-b493-e53279743aee@185.146.173.39:2052?encryption=none&security=none&type=httpupgrade&host=ptde1.hpcdn.info&path=%2F%40mmad%2F#%F0%9F%87%A9%F0%9F%87%AA199MMad-H
