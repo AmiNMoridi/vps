@@ -1,3 +1,3 @@
-vless://f9bb7adf-00a6-4ad4-9617-cce514124ef7@190.93.247.56:8080?encryption=none&security=none&type=ws&host=iede1.hpcdn.info&path=%2F%40mmad%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA207MMad-WS
-vless://90ce1ef4-3323-483c-a417-467e3da940dc@190.93.247.56:8080?encryption=none&security=none&type=ws&host=befn1.hpcdn.info&path=%2F%40mmad%2F%3Fed%3D2560#%F0%9F%87%AB%F0%9F%87%AE207MMad-WS
-vless://4a540a70-29ee-436d-8855-e71daf41059d@185.146.173.39:8880?encryption=none&security=none&type=httpupgrade&host=iede1.hpcdn.info&path=%2F#%F0%9F%87%A9%F0%9F%87%AA207MMad-H
+vless://98216edd-2f96-4f04-bf7d-ce07e11d5dec@190.93.247.56:8080?encryption=none&security=none&type=ws&host=it1.hpcdn.info&path=%2F%40mmad%2F%3Fed%3D2560#%F0%9F%87%AE%F0%9F%87%B9208MMad-WS
+vless://0ad66592-ef39-4323-9d09-be4c7e9b1d60@190.93.247.56:8080?encryption=none&security=none&type=ws&host=hude1.hpcdn.info&path=%2F%40mmad%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA208MMad-WS
+vless://7007d2b3-a91c-4976-bc92-da9ebaea9924@185.146.173.39:8880?encryption=none&security=none&type=httpupgrade&host=it1.hpcdn.info&path=%2F#%F0%9F%87%AE%F0%9F%87%B9208MMad-H
