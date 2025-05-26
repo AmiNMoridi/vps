@@ -1,3 +1,4 @@
-vless://98216edd-2f96-4f04-bf7d-ce07e11d5dec@190.93.247.56:8080?encryption=none&security=none&type=ws&host=it1.hpcdn.info&path=%2F%40mmad%2F%3Fed%3D2560#%F0%9F%87%AE%F0%9F%87%B9208MMad-WS
-vless://0ad66592-ef39-4323-9d09-be4c7e9b1d60@190.93.247.56:8080?encryption=none&security=none&type=ws&host=hude1.hpcdn.info&path=%2F%40mmad%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA208MMad-WS
-vless://7007d2b3-a91c-4976-bc92-da9ebaea9924@185.146.173.39:8880?encryption=none&security=none&type=httpupgrade&host=it1.hpcdn.info&path=%2F#%F0%9F%87%AE%F0%9F%87%B9208MMad-H
+vless://8edb7dd9-0323-4956-bf31-ae9e6fa54e9d@wallex.ir:8080?encryption=none&security=none&type=ws&host=it2.hpcdn.info&path=%2F%40mmad%2F%3Fed%3D2560#%F0%9F%87%AE%F0%9F%87%B9209MMad-WS
+vless://f7f13911-0bc7-43c3-9a88-1feb9f95d499@wallex.ir:8080?encryption=none&security=none&type=ws&host=it3.hpcdn.info&path=%2F%40mmad%2F%3Fed%3D2560#%F0%9F%87%AE%F0%9F%87%B9210MMad-WS
+vless://985ef2f3-67b4-42ed-824e-5bb3f35e968f@wallex.ir:8880?encryption=none&security=none&type=httpupgrade&host=it2.hpcdn.info&path=%2F#%F0%9F%87%AE%F0%9F%87%B9209MMad-H
+vless://db15a1b5-8b92-4160-bf9c-d002985cd5a1@wallex.ir:8880?encryption=none&security=none&type=httpupgrade&host=it3.hpcdn.info&path=%2F#%F0%9F%87%AE%F0%9F%87%B9210MMad-H
