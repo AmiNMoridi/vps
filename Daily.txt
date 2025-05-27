@@ -1,4 +1,10 @@
-vless://8edb7dd9-0323-4956-bf31-ae9e6fa54e9d@wallex.ir:8080?encryption=none&security=none&type=ws&host=it2.hpcdn.info&path=%2F%40mmad%2F%3Fed%3D2560#%F0%9F%87%AE%F0%9F%87%B9209MMad-WS
-vless://f7f13911-0bc7-43c3-9a88-1feb9f95d499@wallex.ir:8080?encryption=none&security=none&type=ws&host=it3.hpcdn.info&path=%2F%40mmad%2F%3Fed%3D2560#%F0%9F%87%AE%F0%9F%87%B9210MMad-WS
-vless://985ef2f3-67b4-42ed-824e-5bb3f35e968f@wallex.ir:8880?encryption=none&security=none&type=httpupgrade&host=it2.hpcdn.info&path=%2F#%F0%9F%87%AE%F0%9F%87%B9209MMad-H
-vless://db15a1b5-8b92-4160-bf9c-d002985cd5a1@wallex.ir:8880?encryption=none&security=none&type=httpupgrade&host=it3.hpcdn.info&path=%2F#%F0%9F%87%AE%F0%9F%87%B9210MMad-H
+vless://8edb7dd9-0323-4956-bf31-ae9e6fa54e9d@wallex.ir:8080?encryption=none&security=none&type=ws&host=it2.hpcdn.info&path=%2F%40AmiN%2F%3Fed%3D2560#%F0%9F%87%AE%F0%9F%87%B9209AmiN-WS
+vless://f7f13911-0bc7-43c3-9a88-1feb9f95d499@wallex.ir:8080?encryption=none&security=none&type=ws&host=it3.hpcdn.info&path=%2F%40AmiN%2F%3Fed%3D2560#%F0%9F%87%AE%F0%9F%87%B9210AmiN-WS
+vless://985ef2f3-67b4-42ed-824e-5bb3f35e968f@wallex.ir:8880?encryption=none&security=none&type=httpupgrade&host=it2.hpcdn.info&path=%2F#%F0%9F%87%AE%F0%9F%87%B9209AmiN-H
+vless://db15a1b5-8b92-4160-bf9c-d002985cd5a1@wallex.ir:8880?encryption=none&security=none&type=httpupgrade&host=it3.hpcdn.info&path=%2F#%F0%9F%87%AE%F0%9F%87%B9210AmiN-H
+vless://8ba9ee7c-bae9-4262-a841-b254d67a19ca@wallex.ir:8080?encryption=none&security=none&type=httpupgrade&host=eede1.hpcdn.info&path=%2F#%F0%9F%87%A9%F0%9F%87%AA211AmiN-H
+vless://95e38b43-0935-4123-ab76-eaf6391faaf0@wallex.ir:8080?encryption=none&security=none&type=httpupgrade&host=slfn1.hpcdn.info&path=%2F#%F0%9F%87%AB%F0%9F%87%AE211AmiN-H
+vless://5afca815-00e2-44b1-a7ca-f1b892c4e402@wallex.ir:2082?encryption=none&security=none&type=httpupgrade&host=it3.hpcdn.info&path=%2F#%F0%9F%87%AE%F0%9F%87%B9211AmiN-H
+vless://38cebc1a-c5c9-46ca-ba9f-76b1e08c39a3@wallex.ir:2052?encryption=none&security=none&type=ws&host=eede1.hpcdn.info&path=%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA211AmiN-WS
+vless://502eeb69-2218-482d-b20f-241217e4b385@wallex.ir:2052?encryption=none&security=none&type=ws&host=slfn1.hpcdn.info&path=%2F%3Fed%3D2560#%F0%9F%87%AB%F0%9F%87%AE211AmiN-WS
+vless://2303f813-0e11-48da-bfdb-4c286227c3a8@wallex.ir:2052?encryption=none&security=none&type=ws&host=it3.hpcdn.info&path=%2F%3Fed%3D2560#%F0%9F%87%AE%F0%9F%87%B9211AmiN-WS
