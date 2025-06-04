@@ -1,4 +1,4 @@
-شvless://0e1ec888-b504-433d-9d04-f7e409bfae6e@190.93.247.56:8080?encryption=none&security=none&type=httpupgrade&host=slde1.hpcdn.info&path=%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA214AmiN-H1
+vless://0e1ec888-b504-433d-9d04-f7e409bfae6e@190.93.247.56:8080?encryption=none&security=none&type=httpupgrade&host=slde1.hpcdn.info&path=%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA214AmiN-H1
 vless://f16d82ea-cb5a-4941-a76a-63eedeaa26ba@190.93.247.56:8080?encryption=none&security=none&type=httpupgrade&host=slde2.hpcdn.info&path=%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA215AmiN-H2
 vless://20256266-2585-4bc5-86ec-8b796c722b4c@190.93.247.56:8880?encryption=none&security=none&type=ws&host=slde1.hpcdn.info&path=%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA214AmiN-WS1
 vless://b7367452-838e-4ef9-9e1b-660406ba982e@190.93.247.56:8880?encryption=none&security=none&type=ws&host=slde2.hpcdn.info&path=%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA215AmiN-WS2
