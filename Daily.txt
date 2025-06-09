@@ -2,3 +2,5 @@ ss://Y2hhY2hhMjAtcG9seTEzMDU6Vzc0WEZBTExMdXc2bTVJQQ==@series-a1.samanehha.co:443
 vless://e548789d-083c-4841-8896-71c87ff313d9@190.93.247.56:8080?encryption=none&security=none&type=httpupgrade&host=hude1.hpcdn.info&path=%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA218MMad-H1
 vless://e548789d-083c-4841-8896-71c87ff313d9@190.93.247.56:8080?encryption=none&security=none&type=httpupgrade&host=esde2.hpcdn.info&path=%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA219MMad-H2
 vless://cb8c414f-8854-438f-b106-a05fb0b81684@190.93.247.56:8880?encryption=none&security=none&type=ws&host=hude1.hpcdn.info&path=%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA218MMad-WS1
+vless://0da53c5a-e7e8-4c20-9716-18638d308393@190.93.247.56:8080?encryption=none&security=none&type=httpupgrade&host=hude1.hpcdn.info&path=%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA220MMad-H
+vless://14125220-77aa-4856-88fc-926034493014@190.93.247.56:8880?encryption=none&security=none&type=ws&host=hude1.hpcdn.info&path=%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA220MMad-WS
