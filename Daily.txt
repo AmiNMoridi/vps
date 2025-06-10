@@ -2,3 +2,4 @@ ss://Y2hhY2hhMjAtcG9seTEzMDU6Vzc0WEZBTExMdXc2bTVJQQ==@series-a1.samanehha.co:443
 vless://ef78e309-b8f7-447a-88a5-9020f583bee6@190.93.247.56:8080?encryption=none&security=none&type=httpupgrade&host=hude1.hpcdn.info&path=%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA221MMad-H
 vless://945cfdb5-5468-44d8-8038-a52f86b033ba@190.93.247.56:8880?encryption=none&security=none&type=ws&host=hude1.hpcdn.info&path=%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA221MMad-WS
 vless://db436180-dfaf-4726-ab3a-63a80cefbe45@195.201.222.237:2053?encryption=none&security=reality&sni=account.proton.me&fp=firefox&pbk=VWMUoQp_zeQsotFEj-mwNWbFMZ_QjfP-ZJVyjmuRsgg&sid=88&spx=%2Ffavicon.ico&type=xhttp&path=%2Fmmad&mode=auto#%F0%9F%87%A9%F0%9F%87%AA221MMad-xR
+vless://6d0a740f-ebec-45e5-8b99-b97a576d88e3@nim2.itskills180d.top:10000?type=tcp&security=none&headerType=http&host=rubika.ir,igap.net,splus.ir,skyroom.online,soft98.ir,cafebazaar.ir&path=/#1%EF%B8%8F%E2%83%A3%E2%9E%972%EF%B8%8F%E2%83%A3
