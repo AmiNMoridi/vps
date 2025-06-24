@@ -1,3 +1,2 @@
 vless://96f51d0b-9839-4c30-9870-8703928e4af4@new.orginet.space:1340?type=tcp&security=none&headerType=http&host=hdde.orginet.space#%F0%9F%87%A9%F0%9F%87%AAiCloud_ir+%E2%98%A2%EF%B8%8F33
 vless://c2ed672d-c95f-49dc-822b-1ce0e74a41e4@new.orginet.space:1277?type=tcp&security=none&headerType=http&host=hdde.orginet.space#%F0%9F%87%A9%F0%9F%87%AAiCloud_ir+%E2%98%A2%EF%B8%8F34
-vless://9db7e000-1490-4c9a-a844-484c68c46657@188.114.96.8:8443?type=ws&security=tls&host=TryTo.EXisted.WorkeRS.DEV&path=/?ed%3D2560&fp=randomized&sni=TryTo.EXisted.WorkeRS.DEV&alpn=h2,http/1.1#%F0%9F%87%A9%F0%9F%87%AAiCloud_ir+%F0%9F%92%A3
