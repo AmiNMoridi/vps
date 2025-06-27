@@ -1,5 +1,1 @@
-ss://Y2hhY2hhMjAtcG9seTEzMDU6Vzc0WEZBTExMdXc2bTVJQQ==@series-a1.samanehha.co:443?type=tcp&security=none&headerType=none#%E2%9A%A1%EF%B8%8FAmiN%F0%9F%94%B0%E2%99%BE%EF%B8%8F
-vless://16d10569-2f74-4298-93a6-17419c44ec67@ash1.hpcdn.info:443?encryption=none&security=tls&sni=ash1.hpcdn.info&alpn=http%2F1.1&fp=random&type=httpupgrade&host=ash1.hpcdn.info&path=%2F30176%2Fmmad%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B81MMad-FuckingWar-H1
-vless://2e89db8e-a104-4d02-a522-962bd56e5fdb@ash2.hpcdn.info:443?encryption=none&security=tls&sni=ash2.hpcdn.info&alpn=http%2F1.1&fp=random&type=httpupgrade&host=ash2.hpcdn.info&path=%2F54080%2Fmmad%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B82MMad-FuckingWar-H2
-vless://e51edb63-df53-464b-8a30-680d8e9825bb@ash1.hpcdn.info:443?encryption=none&security=tls&sni=ash1.hpcdn.info&alpn=http%2F1.1&fp=random&type=ws&host=ash1.hpcdn.info&path=%2F56678%2Fmmad%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B81MMad-FuckingWar-WS1
-vless://fc3b3d07-c080-4aa7-93ab-65d74e1adc85@ash2.hpcdn.info:443?encryption=none&security=tls&sni=ash2.hpcdn.info&alpn=http%2F1.1&fp=random&type=ws&host=ash2.hpcdn.info&path=%2F36201%2Fmmad#%F0%9F%87%BA%F0%9F%87%B82MMad-FuckingWar-WS2
+0011
